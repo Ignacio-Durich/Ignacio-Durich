@@ -8,7 +8,7 @@ I have 3+ years of experience in BI, data warehousing, ETL development and analy
 
 ## Featured project
 
-### [NutriNacho](https://github.com/Ignacio-Durich/NutriNacho)
+### [Nutrition Bot + Dashboard](https://github.com/Ignacio-Durich/nutrition-bot-dashboard)
 A Telegram bot that logs meals from a photo or a short text. Google Gemini estimates calories and macros, Supabase stores the data, and a web dashboard (HTML, Tailwind, Chart.js) shows daily progress, trends and AI analysis. Used daily by two people with individual goals.
 `Python` · `Gemini API` · `Supabase / PostgreSQL` · `JavaScript` · `Chart.js`
 
